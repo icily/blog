@@ -2,13 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://icily.github.io/blog/a-new-start/</loc>
+    <loc>https://icily.github.io/blog/posts/a-new-start/</loc>
+    <lastmod>2022-06-06T01:41:30+08:00</lastmod>
+  </url><url>
+    <loc>https://icily.github.io/blog/posts/</loc>
+    <lastmod>2022-06-06T01:41:30+08:00</lastmod>
+  </url><url>
+    <loc>https://icily.github.io/blog/</loc>
     <lastmod>2022-06-06T01:41:30+08:00</lastmod>
   </url><url>
     <loc>https://icily.github.io/blog/categories/</loc>
   </url><url>
     <loc>https://icily.github.io/blog/tags/</loc>
-  </url><url>
-    <loc>https://icily.github.io/blog/</loc>
   </url>
 </urlset>
