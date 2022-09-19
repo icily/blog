@@ -1,7 +1,8 @@
 ---
-title: "杯，Happy Anniversary"
+title: 杯，Happy Anniversary
 date: 2022-09-13T18:30:25+08:00
 draft: false
+slug: happy-cup-anniversary
 ---
 上週是開始用月亮杯六週年。
 
@@ -11,7 +12,9 @@ draft: false
 
 大學開始能負擔出國，每造訪新的城市，就四處搜刮各種棉條，導管式、指入式，短的、長的，紙的，各種大小顏色款式。當時我想著：「如果我是在這個城市長大的女性，我現在會用什麼生理用品呢？」用這樣的心情逛超市、和 Airbnb 房東、旅館的服務人員蒐集情報。我的行李箱一定有一小區是各種衛生棉和棉條。為了找到最舒服的方案，無所不用其極。
 
-直到 2015 年末才知道有月亮杯這樣的產品。到手後，甚至小心翼翼地替它拍照。水藍色的，色號是 Blizzard Blue，尺寸 Small。用小花棉袋裝著。
+直到 2015 年末才知道有月亮杯這樣的產品。挑了半天，看 Amazon 評論挑了 [EvaCup](https://www.amazon.com/Anigan-Top-Quality-Menstrual-Eco-Friendly-Alternative/dp/B00OY7DKK2)。到手後，甚至小心翼翼地替它拍照。水藍色的，色號是 Blizzard Blue，尺寸 Small。用小花棉袋裝著。
+
+![Eva cup, menstrual cup](/img/evacup.jpeg "EvaCup")
 
 它就這樣陪了我 6 年，回想起心動念是為了舒服，後來不用丟垃圾也方便很多。一直很謹慎使用著。啟用一陣子後，我再也沒有用過棉條和衛生棉。去新的城市就也不用去尋找新的東西。我定了下來。
 
