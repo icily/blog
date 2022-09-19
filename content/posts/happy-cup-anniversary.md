@@ -12,7 +12,11 @@ slug: happy-cup-anniversary
 
 大學開始能負擔出國，每造訪新的城市，就四處搜刮各種棉條，導管式、指入式，短的、長的，紙的，各種大小顏色款式。當時我想著：「如果我是在這個城市長大的女性，我現在會用什麼生理用品呢？」用這樣的心情逛超市、和 Airbnb 房東、旅館的服務人員蒐集情報。我的行李箱一定有一小區是各種衛生棉和棉條。為了找到最舒服的方案，無所不用其極。
 
-直到 2015 年末才知道有月亮杯這樣的產品。挑了半天，看 Amazon 評論挑了 [EvaCup](https://www.amazon.com/Anigan-Top-Quality-Menstrual-Eco-Friendly-Alternative/dp/B00OY7DKK2)。到手後，甚至小心翼翼地替它拍照。水藍色的，色號是 Blizzard Blue，尺寸 Small。用小花棉袋裝著。
+直到 2015 年末才知道有月亮杯這樣的產品。挑了半天，看 Amazon 評論挑了 [EvaCup](https://www.amazon.com/Anigan-Top-Quality-Menstrual-Eco-Friendly-Alternative/dp/B00OY7DKK2)。
+
+![Anigan EvaCup](https://cdn.shopify.com/s/files/1/0687/5797/products/evacup-blizzard-blue_9832049f-1766-4e57-8517-bd8b9e8dbedd_1024x1024@2x.png?v=1588637287 "Anigan EvaCup")
+
+到手後，甚至小心翼翼地替它拍照。水藍色的，色號是 Blizzard Blue，尺寸 Small。用小花棉袋裝著。
 
 ![Eva cup, menstrual cup](/img/evacup.jpeg "EvaCup")
 
@@ -21,6 +25,8 @@ slug: happy-cup-anniversary
 其他搭配使用的東西還有消毒錠、矽膠杯、月亮褲、布衛生棉。從最一開始就每個月用 Milton 消毒錠，也準備了它專屬的矽膠杯子，每個月算準時間消毒，讓它準備好接到第一滴血。比較晚開始使用月亮杯的朋友啟用的時候，我也寄了一盒消毒錠給她，過了一年，換她來問：「我要買新的 Milton 了，要一起嗎？」
 
 至今還是沒有突破的事情則是放心地在量多時只用月亮杯，這幾年來，也從布衛生棉開始作為第二道防線，也嘗試了 THINX、谷慕慕這兩個牌子稱作「月亮褲」的產品，幾乎都是產品一上市就要得到。近年連 Uniqlo 都開始販售類似產品，底褲比較厚一些。事實上，除非是一定得待在會議室、很難起身去洗手間，否則經血要滿溢出來、需要內褲接住的情境少之又少。但多了一層就有安心感，我漸漸不用算計生理期要不要穿深色褲子。有的時候會想，到底為什麼要介意血流到褲子上？想到初經的時候，把血沾到椅子上時害怕地逃避同學目光清理的樣子。那時才小學。雖然很不想管別人的眼光了，還是會小心翼翼地希望經血不要漏也不要露出來。
+
+![Cloth menstrual pad](/img/cloth-menstrual-pad.jpeg "Cloth menstrual pad")
 
 今年覺得 EvaCup 的顏色不像它一開始那麼可愛了。替它泡了一夜稀釋的雙氧水，又恢復 6 年前可可愛愛的藍。
 
