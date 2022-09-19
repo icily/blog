@@ -12,7 +12,7 @@ slug: happy-cup-anniversary
 
 大學開始能負擔出國，每造訪新的城市，就四處搜刮各種棉條，導管式、指入式，短的、長的，紙的，各種大小顏色款式。當時我想著：「如果我是在這個城市長大的女性，我現在會用什麼生理用品呢？」用這樣的心情逛超市、和 Airbnb 房東、旅館的服務人員蒐集情報。我的行李箱一定有一小區是各種衛生棉和棉條。為了找到最舒服的方案，無所不用其極。
 
-直到 2015 年末才知道有月亮杯這樣的產品。挑了半天，看 Amazon 評論挑了 [EvaCup](https://www.amazon.com/Anigan-Top-Quality-Menstrual-Eco-Friendly-Alternative/dp/B00OY7DKK2)。
+直到 2015 年末才知道有月亮杯這樣的產品。挑了半天，看 Amazon 評論選了 [EvaCup](https://www.amazon.com/Anigan-Top-Quality-Menstrual-Eco-Friendly-Alternative/dp/B00OY7DKK2)。
 
 ![Anigan EvaCup](https://cdn.shopify.com/s/files/1/0687/5797/products/evacup-blizzard-blue_9832049f-1766-4e57-8517-bd8b9e8dbedd_1024x1024@2x.png?v=1588637287 "Anigan EvaCup")
 
