@@ -1,5 +1,5 @@
 ---
-title: Installing Netlify CMS for my blog
+title: 安裝 Netlify CMS
 date: 2022-09-19T06:50:14.457Z
 ---
-N﻿ot sure if it's working though.
+總算是為了這個 blog 
