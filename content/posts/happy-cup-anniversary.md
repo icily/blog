@@ -18,7 +18,7 @@ slug: happy-cup-anniversary
 
 到手後，甚至小心翼翼地替它拍照。水藍色的，色號是 Blizzard Blue，尺寸 Small。用小花棉袋裝著。
 
-![Eva cup, menstrual cup](/img/evacup.jpeg "EvaCup")
+![Eva cup, menstrual cup](../../img/evacup.jpeg "EvaCup")
 
 它就這樣陪了我 6 年，回想起心動念是為了舒服，後來不用丟垃圾也方便很多。一直很謹慎使用著。啟用一陣子後，我再也沒有用過棉條和衛生棉。去新的城市就也不用去尋找新的東西。我定了下來。
 
