@@ -1,4 +1,4 @@
-baseURL = 'icily.github.io/blog/'
+baseURL = '/blog/'
 languageCode = 'zh-TW'
 title = '時間存在不同地方'
 theme = "PaperMod"
